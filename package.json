@@ -6,9 +6,8 @@
 	"keywords": [ "software", "application", "simple", "nodejs", "express4", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0",
-		"@freecodecamp/example": "1.1.0"
-	},
-	"main": "server.js",
+		"@freecodecamp/example": "1.2.13"
+	},	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
 	},
