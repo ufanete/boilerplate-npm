@@ -5,9 +5,9 @@
 	"description": "A project that does something awesome",
 	"keywords": [ "software", "application", "simple", "nodejs", "express4", "freecodecamp" ],
 	"dependencies": {
-		"express": "^4.14.0",
-		"@freecodecamp/example": "^1.2.13"
-	},	"main": "server.js",
+		"express": "^4.14.0"
+	},	
+	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
 	},
